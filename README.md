@@ -1,3 +1,3 @@
-# Lightweight Depth-Guided Fusion with RGB-Derived Pseudo-Depth for Robust Cattle Behavior Detection
+# DepthGradFusion: Lightweight RGB-Pseudo-Depth Fusion for Robust Cattle Behavior Detection on Edge IoT Devices
 
 Code will be added soon.
